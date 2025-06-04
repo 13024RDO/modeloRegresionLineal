@@ -36,5 +36,5 @@ Se desea predecir el **precio de una vivienda** en función de sus característi
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/regresion-lineal-casas.git
+git clone https://github.com/13024RDO/modeloRegresionLineal.git
 cd regresion-lineal-casas
